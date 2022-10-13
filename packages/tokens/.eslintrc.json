@@ -1,0 +1,3 @@
+{
+  "extends": "@augustojaml-ui/eslint-config"
+}

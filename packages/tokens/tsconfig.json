@@ -1,0 +1,4 @@
+{
+  "extends": "@augustojaml-ui/ts-config/base.json",
+  "include": ["src"]
+}
